@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Galeri Tanaman</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ================= SPLASH ================= -->
+<section id="opening">
+
+<div class="logo-wrap">
+<img id="logo" src="" alt="Logo">
+</div>
+
+<h1>GALERI TANAMAN</h1>
+
+<p>Sentuh tombol di bawah untuk memulai</p>
+
+<button id="btnOpen">OPEN</button>
+
+</section>
+
+<!-- ================= HALAMAN UTAMA ================= -->
+<section id="menu">
+
+<div class="viewer">
+
+<button class="nav prev" id="btnPrev">&#10094;</button>
+
+<div class="carousel">
+
+<div class="item side" id="leftItem">
+<img id="leftImage" src="" alt="">
+</div>
+
+<div class="item active">
+<img id="foto" src="" alt="">
+</div>
+
+<div class="item side" id="rightItem">
+<img id="rightImage" src="" alt="">
+</div>
+
+</div>
+
+<button class="nav next" id="btnNext">&#10095;</button>
+
+</div>
+
+<div class="dots" id="dots"></div>
+
+<div class="card">
+
+<h2 id="namaTanaman"></h2>
+
+<table>
+
+<tr>
+<th>Nama Latin</th>
+<td><i id="latinTanaman"></i></td>
+</tr>
+
+<tr>
+<th>Khasiat</th>
+<td id="khasiatTanaman"></td>
+</tr>
+</table>
+
+<p id="deskripsi"></p>
+
+</div>
+
+<div class="toolbar">
+
+<button id="btnVoice">
+🔊 Dengarkan
+</button>
+
+</div>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
