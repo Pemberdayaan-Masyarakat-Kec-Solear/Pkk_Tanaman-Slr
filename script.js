@@ -449,330 +449,264 @@ khasiat:"Membantu menjaga kesehatan ginjal, melancarkan pencernaan, meningkatkan
 },
 {
 foto:"75.jpg",
-nama:"Tanaman Cabe Jawa",
-latin:"Piper retrofractum",
-khasiat:"Membantu mengatasi batuk, meningkatkan nafsu makan, meredakan nyeri, dan menghangatkan tubuh."
-},
-{
-foto:"76.jpg",
-nama:"Tanaman Cabe",
-latin:"Capsicum annuum",
-khasiat:"Meningkatkan metabolisme tubuh, menjaga kesehatan mata, melancarkan peredaran darah, dan meningkatkan nafsu makan."
-},
-{
-foto:"77.jpg",
 nama:"Tanaman Daun Bawang",
 latin:"Allium fistulosum",
 khasiat:"Meningkatkan daya tahan tubuh, menjaga kesehatan tulang, membantu kesehatan jantung, dan kaya vitamin."
 },
 {
-foto:"78.jpg",
-nama:"Tanaman Daun Kelor",
-latin:"Moringa oleifera",
-khasiat:"Meningkatkan daya tahan tubuh, membantu mengontrol gula darah, menjaga kesehatan mata, dan kaya antioksidan."
-},
-{
-foto:"79.jpg",
+foto:"76.jpg",
 nama:"Tanaman Daun Miyana",
 latin:"Coleus scutellarioides",
 khasiat:"Membantu mengatasi batuk, mempercepat penyembuhan luka, mengurangi peradangan, dan menjaga kesehatan kulit."
 },
 {
-foto:"80.jpg",
-nama:"Tanaman Gingseng Jawa",
-latin:"Talinum paniculatum",
-khasiat:"Membantu meningkatkan stamina, menjaga daya tahan tubuh, memperlancar ASI, dan meningkatkan kebugaran."
-},
-{
-foto:"81.jpg",
-nama:"Tanaman Jahe",
-latin:"Zingiber officinale",
-khasiat:"Membantu meredakan mual, masuk angin, batuk, meningkatkan daya tahan tubuh, dan melancarkan pencernaan."
-},
-{
-foto:"82.jpg",
+foto:"77.jpg",
 nama:"Tanaman Jambu Air Cingcalo",
 latin:"Syzygium aqueum",
 khasiat:"Membantu menjaga hidrasi tubuh, meningkatkan daya tahan tubuh, menjaga kesehatan kulit, dan melancarkan pencernaan."
 },
 {
-foto:"83.jpg",
+foto:"78.jpg",
 nama:"Tanaman Jambu Air Citra Ijo",
 latin:"Syzygium aqueum",
 khasiat:"Membantu memenuhi kebutuhan vitamin C, menjaga kesehatan kulit, dan meningkatkan daya tahan tubuh."
 },
 {
-foto:"84.jpg",
+foto:"79.jpg",
 nama:"Tanaman Jambu Air Citra",
 latin:"Syzygium aqueum",
 khasiat:"Menjaga kesehatan tubuh, meningkatkan daya tahan tubuh, dan membantu melancarkan pencernaan."
 },
 {
-foto:"85.jpg",
+foto:"80.jpg",
 nama:"Tanaman Jambu Air Deli",
 latin:"Syzygium aqueum",
 khasiat:"Membantu menjaga kesehatan jantung, meningkatkan daya tahan tubuh, dan memenuhi kebutuhan cairan tubuh."
 },
 {
-foto:"86.jpg",
+foto:"81.jpg",
 nama:"Tanaman Jambu Air Kancing",
 latin:"Syzygium aqueum",
 khasiat:"Menjaga kesehatan pencernaan, meningkatkan daya tahan tubuh, dan membantu menjaga kesehatan kulit."
 },
 {
-foto:"87.jpg",
+foto:"82.jpg",
 nama:"Tanaman Jambu Batu / Jambu Biji",
 latin:"Psidium guajava",
 khasiat:"Meningkatkan daya tahan tubuh, mengatasi diare, membantu mengontrol gula darah, dan menjaga kesehatan jantung."
 },
 {
-foto:"88.jpg",
+foto:"83.jpg",
 nama:"Tanaman Jambu Biji Australia",
 latin:"Psidium guajava",
 khasiat:"Membantu meningkatkan daya tahan tubuh, menjaga kesehatan kulit, melancarkan pencernaan, dan kaya vitamin C."
 },
 {
-foto:"89.jpg",
+foto:"84.jpg",
 nama:"Tanaman Jambu Kristal",
 latin:"Psidium guajava",
 khasiat:"Menjaga kesehatan pencernaan, meningkatkan daya tahan tubuh, dan membantu mengontrol kadar gula darah."
 },
 {
-foto:"90.jpg",
+foto:"85.jpg",
 nama:"Tanaman Jeruk Lemon",
 latin:"Citrus limon",
 khasiat:"Meningkatkan daya tahan tubuh, membantu detoksifikasi, menjaga kesehatan kulit, dan melancarkan pencernaan."
 },
 {
-foto:"91.jpg",
+foto:"86.jpg",
 nama:"Tanaman Jeruk Medan",
 latin:"Citrus sinensis",
 khasiat:"Meningkatkan daya tahan tubuh, menjaga kesehatan jantung, membantu memenuhi kebutuhan vitamin C, dan kaya antioksidan."
 },
 {
-foto:"92.jpg",
+foto:"87.jpg",
 nama:"Tanaman Jeruk Sunkist",
 latin:"Citrus sinensis",
 khasiat:"Meningkatkan daya tahan tubuh, menjaga kesehatan kulit, menjaga kesehatan jantung, dan kaya vitamin C."
 },
 {
-foto:"93.jpg",
+foto:"88.jpg",
 nama:"Tanaman Kemuning",
 latin:"Murraya paniculata",
 khasiat:"Membantu mengatasi nyeri, melancarkan peredaran darah, menjaga kesehatan kulit, dan mengurangi peradangan."
 },
 {
-foto:"94.jpg",
+foto:"89.jpg",
 nama:"Tanaman Ketapang",
 latin:"Terminalia catappa",
 khasiat:"Membantu mengatasi diare, menjaga kesehatan hati, menurunkan peradangan, dan kaya antioksidan."
 },
 {
-foto:"95.jpg",
+foto:"90.jpg",
 nama:"Tanaman Klengkeng Mata Lada",
 latin:"Dimocarpus longan",
 khasiat:"Meningkatkan daya tahan tubuh, membantu kualitas tidur, menjaga kesehatan kulit, dan kaya antioksidan."
 },
 {
-foto:"96.jpg",
-nama:"Tanaman Kunyit",
-latin:"Curcuma longa",
-khasiat:"Membantu mengatasi peradangan, meningkatkan daya tahan tubuh, menjaga kesehatan pencernaan, dan mengurangi nyeri."
-},
-{
-foto:"97.jpg",
+foto:"91.jpg",
 nama:"Tanaman Lada",
 latin:"Piper nigrum",
 khasiat:"Membantu melancarkan pencernaan, meningkatkan metabolisme, menghangatkan tubuh, dan kaya antioksidan."
 },
 {
-foto:"98.jpg",
+foto:"92.jpg",
 nama:"Tanaman Lempuyang",
 latin:"Zingiber zerumbet",
 khasiat:"Membantu meningkatkan nafsu makan, meredakan nyeri, melancarkan pencernaan, dan mengatasi masuk angin."
 },
 {
-foto:"99.jpg",
+foto:"93.jpg",
 nama:"Tanaman Mawar Merah",
 latin:"Rosa hybrida",
 khasiat:"Membantu menjaga kesehatan kulit, mengurangi stres, menyegarkan tubuh, dan sebagai antioksidan alami."
 },
 {
-foto:"100.jpg",
-nama:"Tanaman Mengkudu",
-latin:"Morinda citrifolia",
-khasiat:"Membantu menurunkan tekanan darah, meningkatkan daya tahan tubuh, mengurangi nyeri sendi, dan mengontrol gula darah."
-},
-{
-foto:"101.jpg",
+foto:"94.jpg",
 nama:"Tanaman Murbei",
 latin:"Morus alba",
 khasiat:"Membantu mengontrol kadar gula darah, menjaga kesehatan jantung, meningkatkan daya tahan tubuh, dan kaya antioksidan."
 },
 {
-foto:"102.jpg",
+foto:"95.jpg",
 nama:"Tanaman Pala",
 latin:"Myristica fragrans",
 khasiat:"Membantu melancarkan pencernaan, meningkatkan kualitas tidur, meredakan nyeri, dan menjaga kesehatan otak."
 },
 {
-foto:"103.jpg",
+foto:"96.jpg",
 nama:"Tanaman Pepaya California",
 latin:"Carica papaya",
 khasiat:"Melancarkan pencernaan, meningkatkan daya tahan tubuh, menjaga kesehatan mata, dan membantu penyembuhan luka."
 },
 {
-foto:"104.jpg",
+foto:"97.jpg",
 nama:"Tanaman Pepaya",
 latin:"Carica papaya",
 khasiat:"Membantu melancarkan pencernaan, menjaga kesehatan mata, meningkatkan daya tahan tubuh, dan kaya vitamin A serta C."
 },
 {
-foto:"105.jpg",
+foto:"98.jpg",
 nama:"Tanaman Pucuk Merah",
 latin:"Syzygium oleina",
 khasiat:"Sebagai tanaman hias, membantu menyerap polusi udara, memperindah lingkungan, dan memberikan kesejukan."
 },
 {
-foto:"106.jpg",
+foto:"99.jpg",
 nama:"Tanaman Sawi Ijo",
 latin:"Brassica rapa var. parachinensis",
 khasiat:"Meningkatkan daya tahan tubuh, menjaga kesehatan tulang, melancarkan pencernaan, dan kaya vitamin."
 },
 {
-foto:"107.jpg",
+foto:"100.jpg",
 nama:"Tanaman Secang",
 latin:"Caesalpinia sappan",
 khasiat:"Membantu melancarkan peredaran darah, menjaga kesehatan jantung, meningkatkan daya tahan tubuh, dan sebagai antioksidan."
 },
 {
-foto:"108.jpg",
+foto:"101.jpg",
 nama:"Tanaman Seledri",
 latin:"Apium graveolens",
 khasiat:"Membantu menurunkan tekanan darah, menjaga kesehatan jantung, melancarkan pencernaan, dan mengurangi peradangan."
 },
 {
-foto:"109.jpg",
-nama:"Tanaman Sereh",
-latin:"Cymbopogon citratus",
-khasiat:"Membantu meredakan masuk angin, meningkatkan daya tahan tubuh, mengurangi nyeri, dan melancarkan pencernaan."
-},
-{
-foto:"110.jpg",
+foto:"102.jpg",
 nama:"Tanaman Sirih Gading",
 latin:"Epipremnum aureum",
 khasiat:"Membantu menyerap polusi udara, mempercantik ruangan, dan meningkatkan kualitas udara."
 },
 {
-foto:"111.jpg",
-nama:"Tanaman Sirih",
-latin:"Piper betle",
-khasiat:"Membantu menjaga kesehatan mulut, mengatasi bau mulut, mempercepat penyembuhan luka, dan bersifat antiseptik."
-},
-{
-foto:"112.jpg",
+foto:"103.jpg",
 nama:"Tanaman Srikaya",
 latin:"Annona squamosa",
 khasiat:"Meningkatkan daya tahan tubuh, menjaga kesehatan mata, melancarkan pencernaan, dan kaya vitamin C."
 },
 {
-foto:"113.jpg",
+foto:"104.jpg",
 nama:"Tanaman Sukun",
 latin:"Artocarpus altilis",
 khasiat:"Sebagai sumber energi, membantu menjaga kesehatan jantung, melancarkan pencernaan, dan kaya serat."
 },
 {
-foto:"114.jpg",
+foto:"105.jpg",
 nama:"Tanaman Talas Belitung",
 latin:"Xanthosoma sagittifolium",
 khasiat:"Sebagai sumber karbohidrat, membantu menjaga kesehatan pencernaan, meningkatkan energi, dan kaya serat."
 },
 {
-foto:"115.jpg",
-nama:"Tanaman Temulawak",
-latin:"Curcuma xanthorrhiza",
-khasiat:"Membantu menjaga kesehatan hati, meningkatkan nafsu makan, melancarkan pencernaan, dan mengurangi peradangan."
-},
-{
-foto:"116.jpg",
+foto:"106.jpg",
 nama:"Tanaman Terong Ijo",
 latin:"Solanum melongena",
 khasiat:"Membantu menjaga kesehatan jantung, melancarkan pencernaan, mengontrol kadar gula darah, dan kaya antioksidan."
 },
 {
-foto:"117.jpg",
-nama:"Tanaman Ubi Kayu / Singkong",
-latin:"Manihot esculenta",
-khasiat:"Sebagai sumber energi, membantu melancarkan pencernaan, memenuhi kebutuhan karbohidrat, dan kaya serat."
-},
-{
-foto:"118.jpg",
+foto:"107.jpg",
 nama:"Tanaman Apel India",
 latin:"Ziziphus mauritiana",
 khasiat:"Membantu meningkatkan daya tahan tubuh, menjaga kesehatan pencernaan, kaya vitamin C, dan sebagai antioksidan."
 },
 {
-foto:"119.jpg",
+foto:"108.jpg",
 nama:"Tanaman Cengkeh",
 latin:"Syzygium aromaticum",
 khasiat:"Membantu meredakan sakit gigi, bersifat antiseptik, meningkatkan daya tahan tubuh, dan mengurangi peradangan."
 },
 {
-foto:"120.jpg",
+foto:"109.jpg",
 nama:"Tanaman Cocor Bebek",
 latin:"Kalanchoe pinnata",
 khasiat:"Membantu mempercepat penyembuhan luka, meredakan demam, mengurangi peradangan, dan mengatasi batuk."
 },
 {
-foto:"121.jpg",
+foto:"110.jpg",
 nama:"Tanaman Daun Salam",
 latin:"Syzygium polyanthum",
 khasiat:"Membantu menurunkan kadar gula darah, menjaga kesehatan jantung, mengurangi peradangan, dan melancarkan pencernaan."
 },
 {
-foto:"122.jpg",
+foto:"111.jpg",
 nama:"Tanaman Kayu Manis",
 latin:"Cinnamomum burmannii",
 khasiat:"Membantu mengontrol kadar gula darah, meningkatkan sensitivitas insulin, menjaga kesehatan jantung, dan kaya antioksidan."
 },
 {
-foto:"123.jpg",
+foto:"112.jpg",
 nama:"Tanaman Mangkokan",
 latin:"Nothopanax scutellarium",
 khasiat:"Membantu menyuburkan rambut, mempercepat penyembuhan luka, mengurangi peradangan, dan menjaga kesehatan kulit."
 },
 {
-foto:"124.jpg",
+foto:"113.jpg",
 nama:"Tanaman Petai Cina",
 latin:"Leucaena leucocephala",
 khasiat:"Membantu melancarkan pencernaan, sebagai sumber protein nabati, menjaga kesehatan tulang, dan meningkatkan daya tahan tubuh."
 },
 {
-foto:"125.jpg",
+foto:"114.jpg",
 nama:"Tanaman Sawi / Pakcoy",
 latin:"Brassica rapa subsp. chinensis",
 khasiat:"Membantu menjaga kesehatan tulang, meningkatkan daya tahan tubuh, melancarkan pencernaan, dan kaya vitamin A, C, serta K."
 },
 {
-foto:"126.jpg",
+foto:"115.jpg",
 nama:"Tanaman Sawo",
 latin:"Manilkara zapota",
 khasiat:"Membantu melancarkan pencernaan, meningkatkan daya tahan tubuh, menjaga kesehatan tulang, dan kaya antioksidan."
 },
 {
-foto:"127.jpg",
+foto:"116.jpg",
 nama:"Tanaman Sirih Cina",
 latin:"Peperomia pellucida",
 khasiat:"Membantu menurunkan kadar asam urat, mengurangi peradangan, mempercepat penyembuhan luka, dan membantu mengatasi jerawat."
 },
 {
-foto:"128.jpg",
+foto:"117.jpg",
 nama:"Tanaman Sirsak",
 latin:"Annona muricata",
 khasiat:"Membantu meningkatkan daya tahan tubuh, menjaga kesehatan pencernaan, kaya antioksidan, dan membantu mengurangi peradangan."
 },
 {
-foto:"129.jpg",
+foto:"118.jpg",
 nama:"Tanaman Temu Ireng",
 latin:"Curcuma aeruginosa",
 khasiat:"Membantu meningkatkan nafsu makan, mengatasi gangguan pencernaan, mengurangi peradangan, dan membantu mengatasi infeksi."
